@@ -96,7 +96,7 @@ This Bidirectional LSTM model is an initial implementation, released for public 
 
 This project is open-source and available for public use under the MIT License. Contributions and feedback are welcome\!
 
-[image1]: <https://raw.githubusercontent.com/taleblou/Bidirectional-Price-Prediction/refs/heads/main/Plot/BLSTM_BTC-USD.png>
-[image2]: <https://raw.githubusercontent.com/taleblou/Bidirectional-Price-Prediction/refs/heads/main/Plot/BLSTM_GC%3DF.png>
-[image3]: <https://raw.githubusercontent.com/taleblou/Bidirectional-Price-Prediction/refs/heads/main/Plot/BLSTM_EURUSD%3DX.png>
-[image4]: <https://raw.githubusercontent.com/taleblou/BidirectionalPrice-Prediction/refs/heads/main/Plot/BLSTM_%5EGSPC.png>
+[image1]: <https://raw.githubusercontent.com/taleblou/Bidirectional_LSTM-Price-Prediction/refs/heads/main/Plot/BLSTM_BTC-USD.png>
+[image2]: <https://raw.githubusercontent.com/taleblou/Bidirectional_LSTM-Price-Prediction/refs/heads/main/Plot/BLSTM_GC%3DF.png>
+[image3]: <https://raw.githubusercontent.com/taleblou/Bidirectional_LSTM-Price-Prediction/refs/heads/main/Plot/BLSTM_EURUSD%3DX.png>
+[image4]: <https://raw.githubusercontent.com/taleblou/Bidirectional_LSTM-Price-Prediction/refs/heads/main/Plot/BLSTM_%5EGSPC.png>
